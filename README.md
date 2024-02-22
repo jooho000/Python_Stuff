@@ -17,3 +17,11 @@ Shop:
 converter:
 
         converts from F to C; Pound to Kg; Miles to Km
+
+firstBot:
+
+        first test bot for Discord
+
+GreetBot:
+
+        Bot that greets new duscird server members
