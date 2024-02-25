@@ -37,7 +37,7 @@ async def on_message(message: Message) -> None:
     await send_message(message,user_message)
 
 def main() -> None:
-    client.run("MTIwOTc2NDIyNDk5NDEyMzc4OA.GJ22uY.v_nOPISYq8G1k8IrL7mOe2zoHpiGv1E0UlmyGc")
+    client.run("MTIwOTc2NDIyNDk5NDEyMzc4OA.GJfvJs.b3cjqh2HAed4HeYON4fLrbRtyWIrZMnLLmkg6c")
 
 if __name__ == '__main__':
     main()

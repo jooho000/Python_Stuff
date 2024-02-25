@@ -22,6 +22,10 @@ firstBot:
 
         first test bot for Discord
 
-GreetBot:
+LiverBot:
 
-        Bot that greets new duscird server members
+        My Discord Bot 
+
+cypher:
+
+        Caesar Cipher encyption and decryption from given file

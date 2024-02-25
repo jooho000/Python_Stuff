@@ -1,7 +1,7 @@
 from datetime import datetime
 import random
 
-def handle_response(message) -> str:
+def handle_response(message):
     p_message = message.lower()
 
     if p_message == "ayuda bot":
