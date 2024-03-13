@@ -28,7 +28,7 @@ def handle_response(message):
                 "Armadura de Warmog", "Maldicion del Liche", "Velo de la Banshee", "Lanza de Shojin", "Agrietador", "Cielo Desgarrado",
                 "El Coleccionista", "Filo de la tormenta", "Espada del Rey Arruinado", "Lumbria", "Danza de la Muerte",
                 "Jak'Sho, el Proteico", "Rencor de Serylda", "Reloj de Arena de Zhonya", "Filo del Infinito", "Hidra Voraz", "Hidra Titanica",
-                "RompeAvances", "Cuchillas Raudas de Navori", "Hidra Profana", "La Sanguinaria", "Sombrero Mortifero de Rabadon"]
+                "RompeAvances", "Cuchillas Raudas de Navori", "Hidra Profana", "Fuerza de la Trinidad", "La Sanguinaria", "Sombrero Mortifero de Rabadon"]
     
     myResponses = ["de quien eres?", "recomiendame un juego", "dame un build", "dame un item", "adivina mi color", "tira un dado", "te amo", 
                    "estoy triste", "cara o escudo", "dile a via que se calle", "eres gay?", "que es (tu opcion)", "estas despierto?"]

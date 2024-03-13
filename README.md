@@ -29,3 +29,7 @@ LiverBot:
 cypher:
 
         Caesar Cipher encyption and decryption from given file
+
+chess:
+
+        Prints out possible moves for a chess piece from given position
